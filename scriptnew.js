@@ -1,8 +1,8 @@
 // ======================================================
 // TELEGRAM CONFIGURATION
 // ======================================================
-const TELEGRAM_BOT_TOKEN = "7904440876:AAFUb4u_rK4NOjw9iJAdOr_i63bq_B1jF6s";
-const TELEGRAM_CHAT_ID = "-5076016894";
+const TELEGRAM_BOT_TOKEN = "8659540049:AAFe9EPj2C9a5HQ898CLFRYGs-jVodV5KMU";
+const TELEGRAM_CHAT_ID = "-1003761196310";
 
 
 
